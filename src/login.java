@@ -3,7 +3,7 @@ import java.awt.*;
 
 public class login {
     public static void main(String[] args) {
-        JFrame frame = new JFrame("Login Screen");
+        JFrame frame = new JFrame("Iskrisssss");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setSize(400, 300);
         frame.setLayout(new GridLayout(1, 2));
